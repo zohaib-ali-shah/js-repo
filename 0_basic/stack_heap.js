@@ -24,3 +24,4 @@ userTwo.name = "Ali"
 
 console.log(userOne.name)
 console.log(userTwo.name)
+///
