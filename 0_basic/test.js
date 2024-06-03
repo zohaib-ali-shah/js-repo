@@ -12,4 +12,5 @@ console.log(Math.floor( Math.random() * (max - min +1) + min))
   
 //   const [min, max] = [10, 20];
 //   console.log(getRandomInteger(min, max));
+//
   
