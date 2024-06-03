@@ -9,7 +9,7 @@ console.log(myArr);
 console.log(myArr.slice(1 , 4));
 console.log(myArr);
 console.log(myArr.splice(1, 4));
-console.log(myArr);
+console.log(myArr);   
 
 
 
